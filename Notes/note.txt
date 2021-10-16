@@ -1,0 +1,7 @@
+Para pesquisar usuários que podem ver os posts vou criar um input type search
+
+Vou seguir os passos do artigo > https://www.devmedia.com.br/criando-um-cadastro-com-php-ajax-e-jquery/28046
+
+Só que ao invés de aplicar a função de quando o usuário clica no botão, vai ser de quando o usuário digitar (função keyup)
+
+Criar um input type search com uma lista de checkbox com imagem do user, nome email e etc... de foreach em baixo que vai contém o selecta * from "query"
