@@ -32,6 +32,8 @@ Mas o foco do projeto e não do código é fazer VALIDAÇÕES, como é um fórum
 </li>
 </ul>
 
-<h5>Agradeço a quem ficou até aqui, até logo.</h5>
 
 ![Video (5)](https://user-images.githubusercontent.com/89032013/140667249-eca02772-3bd1-45c6-95e6-7ae7e54f2fab.gif)
+
+
+<h5>Agradeço a quem ficou até aqui, até logo.</h5>
