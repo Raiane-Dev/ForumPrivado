@@ -13,7 +13,7 @@ Mas o foco do projeto e não do código é fazer VALIDAÇÕES, como é um fórum
 
 <li>
   <strong>Database: </br /></strong>
-  <i>PHPMyAdmin.</i>
+  <i>MySql.</i>
 </li>
 
 <li>
